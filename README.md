@@ -1,4 +1,4 @@
-<h1> Hey, I'm Emmanuel and welcome to my profile!</h1>
+<h1> Hey, I'm Emmanuel and welcome to my profile! 🙌</h1>
 
 I am a graduate from the University of Liverpool, with a BA in Business Studies and Politics
 
