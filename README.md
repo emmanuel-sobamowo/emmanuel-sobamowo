@@ -2,7 +2,7 @@
 
 I am a graduate from the University of Liverpool, with a BA in Business Studies and Politics
 
-Following mhy graduation in 2019, I started work at GetAgent.co.uk as a Customer Service Manager. 
+Following my graduation in 2019, I started work at GetAgent.co.uk as a Customer Service Manager. 
 
 I recently made the decision to puruse a career in the technology industry, following months of online HTML and Javascript courses on Udemy. 
 
